@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\bin\Debug\net7.0\StoreandIterateData.exe
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\bin\Debug\net7.0\StoreandIterateData.deps.json
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\bin\Debug\net7.0\StoreandIterateData.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\bin\Debug\net7.0\StoreandIterateData.dll
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\bin\Debug\net7.0\StoreandIterateData.pdb
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\obj\Debug\net7.0\StoreandIterateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\obj\Debug\net7.0\StoreandIterateData.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\obj\Debug\net7.0\StoreandIterateData.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\obj\Debug\net7.0\StoreandIterateData.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\obj\Debug\net7.0\StoreandIterateData.dll
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\obj\Debug\net7.0\refint\StoreandIterateData.dll
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\obj\Debug\net7.0\StoreandIterateData.pdb
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\obj\Debug\net7.0\StoreandIterateData.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\Foundational C# with Microsoft\StoreandIterateData\obj\Debug\net7.0\ref\StoreandIterateData.dll
