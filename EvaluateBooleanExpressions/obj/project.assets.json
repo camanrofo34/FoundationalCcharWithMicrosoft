@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC 4060TI\\Desktop\\FoundationalC#with Microsoft\\AddDecisionLogic\\TestProjec.csproj",
-      "projectName": "TestProjec",
-      "projectPath": "C:\\Users\\PC 4060TI\\Desktop\\FoundationalC#with Microsoft\\AddDecisionLogic\\TestProjec.csproj",
+      "projectUniqueName": "C:\\Users\\PC 4060TI\\Desktop\\FoundationalC#with Microsoft\\EvaluateBooleanExpressions\\EvaluateBooleanExpressions.csproj",
+      "projectName": "EvaluateBooleanExpressions",
+      "projectPath": "C:\\Users\\PC 4060TI\\Desktop\\FoundationalC#with Microsoft\\EvaluateBooleanExpressions\\EvaluateBooleanExpressions.csproj",
       "packagesPath": "C:\\Users\\PC 4060TI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC 4060TI\\Desktop\\FoundationalC#with Microsoft\\AddDecisionLogic\\obj\\",
+      "outputPath": "C:\\Users\\PC 4060TI\\Desktop\\FoundationalC#with Microsoft\\EvaluateBooleanExpressions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC 4060TI\\AppData\\Roaming\\NuGet\\NuGet.Config"

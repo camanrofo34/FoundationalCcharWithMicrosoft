@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\obj\Debug\net7.0\EvaluateBooleanExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\obj\Debug\net7.0\EvaluateBooleanExpressions.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\obj\Debug\net7.0\EvaluateBooleanExpressions.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\obj\Debug\net7.0\EvaluateBooleanExpressions.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\bin\Debug\net7.0\EvaluateBooleanExpressions.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\bin\Debug\net7.0\EvaluateBooleanExpressions.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\bin\Debug\net7.0\EvaluateBooleanExpressions.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\bin\Debug\net7.0\EvaluateBooleanExpressions.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\bin\Debug\net7.0\EvaluateBooleanExpressions.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\obj\Debug\net7.0\EvaluateBooleanExpressions.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\obj\Debug\net7.0\refint\EvaluateBooleanExpressions.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\obj\Debug\net7.0\EvaluateBooleanExpressions.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\obj\Debug\net7.0\EvaluateBooleanExpressions.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\EvaluateBooleanExpressions\obj\Debug\net7.0\ref\EvaluateBooleanExpressions.dll
