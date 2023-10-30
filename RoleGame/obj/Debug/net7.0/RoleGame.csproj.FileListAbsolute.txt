@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\bin\Debug\net7.0\RoleGame.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\bin\Debug\net7.0\RoleGame.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\bin\Debug\net7.0\RoleGame.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\bin\Debug\net7.0\RoleGame.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\bin\Debug\net7.0\RoleGame.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\obj\Debug\net7.0\RoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\obj\Debug\net7.0\RoleGame.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\obj\Debug\net7.0\RoleGame.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\obj\Debug\net7.0\RoleGame.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\obj\Debug\net7.0\RoleGame.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\obj\Debug\net7.0\refint\RoleGame.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\obj\Debug\net7.0\RoleGame.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\obj\Debug\net7.0\RoleGame.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\RoleGame\obj\Debug\net7.0\ref\RoleGame.dll

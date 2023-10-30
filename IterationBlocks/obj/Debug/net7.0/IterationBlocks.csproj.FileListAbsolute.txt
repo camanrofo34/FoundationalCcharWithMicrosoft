@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\bin\Debug\net7.0\IterationBlocks.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\bin\Debug\net7.0\IterationBlocks.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\bin\Debug\net7.0\IterationBlocks.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\bin\Debug\net7.0\IterationBlocks.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\bin\Debug\net7.0\IterationBlocks.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\obj\Debug\net7.0\IterationBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\obj\Debug\net7.0\IterationBlocks.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\obj\Debug\net7.0\IterationBlocks.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\obj\Debug\net7.0\IterationBlocks.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\obj\Debug\net7.0\IterationBlocks.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\obj\Debug\net7.0\refint\IterationBlocks.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\obj\Debug\net7.0\IterationBlocks.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\obj\Debug\net7.0\IterationBlocks.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IterationBlocks\obj\Debug\net7.0\ref\IterationBlocks.dll
