@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\bin\Debug\net7.0\LogicControl.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\bin\Debug\net7.0\LogicControl.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\bin\Debug\net7.0\LogicControl.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\bin\Debug\net7.0\LogicControl.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\bin\Debug\net7.0\LogicControl.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\obj\Debug\net7.0\LogicControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\obj\Debug\net7.0\LogicControl.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\obj\Debug\net7.0\LogicControl.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\obj\Debug\net7.0\LogicControl.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\obj\Debug\net7.0\LogicControl.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\obj\Debug\net7.0\refint\LogicControl.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\obj\Debug\net7.0\LogicControl.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\obj\Debug\net7.0\LogicControl.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicControl\obj\Debug\net7.0\ref\LogicControl.dll

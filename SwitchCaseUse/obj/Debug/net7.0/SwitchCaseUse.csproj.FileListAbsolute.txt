@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\bin\Debug\net7.0\SwitchCaseUse.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\bin\Debug\net7.0\SwitchCaseUse.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\bin\Debug\net7.0\SwitchCaseUse.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\bin\Debug\net7.0\SwitchCaseUse.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\bin\Debug\net7.0\SwitchCaseUse.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\obj\Debug\net7.0\SwitchCaseUse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\obj\Debug\net7.0\SwitchCaseUse.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\obj\Debug\net7.0\SwitchCaseUse.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\obj\Debug\net7.0\SwitchCaseUse.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\obj\Debug\net7.0\SwitchCaseUse.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\obj\Debug\net7.0\refint\SwitchCaseUse.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\obj\Debug\net7.0\SwitchCaseUse.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\obj\Debug\net7.0\SwitchCaseUse.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\SwitchCaseUse\obj\Debug\net7.0\ref\SwitchCaseUse.dll
