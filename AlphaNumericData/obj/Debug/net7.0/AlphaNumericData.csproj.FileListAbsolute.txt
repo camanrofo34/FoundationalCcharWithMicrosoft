@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\bin\Debug\net7.0\AlphaNumericData.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\bin\Debug\net7.0\AlphaNumericData.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\bin\Debug\net7.0\AlphaNumericData.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\bin\Debug\net7.0\AlphaNumericData.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\bin\Debug\net7.0\AlphaNumericData.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\obj\Debug\net7.0\AlphaNumericData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\obj\Debug\net7.0\AlphaNumericData.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\obj\Debug\net7.0\AlphaNumericData.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\obj\Debug\net7.0\AlphaNumericData.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\obj\Debug\net7.0\AlphaNumericData.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\obj\Debug\net7.0\refint\AlphaNumericData.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\obj\Debug\net7.0\AlphaNumericData.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\obj\Debug\net7.0\AlphaNumericData.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\AlphaNumericData\obj\Debug\net7.0\ref\AlphaNumericData.dll

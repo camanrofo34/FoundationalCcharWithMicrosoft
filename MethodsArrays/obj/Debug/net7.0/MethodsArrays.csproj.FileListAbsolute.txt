@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\bin\Debug\net7.0\MethodsArrays.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\bin\Debug\net7.0\MethodsArrays.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\bin\Debug\net7.0\MethodsArrays.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\bin\Debug\net7.0\MethodsArrays.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\bin\Debug\net7.0\MethodsArrays.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\obj\Debug\net7.0\MethodsArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\obj\Debug\net7.0\MethodsArrays.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\obj\Debug\net7.0\MethodsArrays.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\obj\Debug\net7.0\MethodsArrays.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\obj\Debug\net7.0\MethodsArrays.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\obj\Debug\net7.0\refint\MethodsArrays.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\obj\Debug\net7.0\MethodsArrays.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\obj\Debug\net7.0\MethodsArrays.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\methodsArrays\obj\Debug\net7.0\ref\MethodsArrays.dll

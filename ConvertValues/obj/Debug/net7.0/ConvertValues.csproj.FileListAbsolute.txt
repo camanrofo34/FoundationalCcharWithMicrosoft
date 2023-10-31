@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\bin\Debug\net7.0\ConvertValues.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\bin\Debug\net7.0\ConvertValues.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\bin\Debug\net7.0\ConvertValues.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\bin\Debug\net7.0\ConvertValues.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\bin\Debug\net7.0\ConvertValues.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\obj\Debug\net7.0\ConvertValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\obj\Debug\net7.0\ConvertValues.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\obj\Debug\net7.0\ConvertValues.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\obj\Debug\net7.0\ConvertValues.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\obj\Debug\net7.0\ConvertValues.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\obj\Debug\net7.0\refint\ConvertValues.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\obj\Debug\net7.0\ConvertValues.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\obj\Debug\net7.0\ConvertValues.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\convertvalues\obj\Debug\net7.0\ref\ConvertValues.dll

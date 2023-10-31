@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\bin\Debug\net7.0\IdentifyDataType.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\bin\Debug\net7.0\IdentifyDataType.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\bin\Debug\net7.0\IdentifyDataType.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\bin\Debug\net7.0\IdentifyDataType.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\bin\Debug\net7.0\IdentifyDataType.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\obj\Debug\net7.0\IdentifyDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\obj\Debug\net7.0\IdentifyDataType.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\obj\Debug\net7.0\IdentifyDataType.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\obj\Debug\net7.0\IdentifyDataType.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\obj\Debug\net7.0\IdentifyDataType.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\obj\Debug\net7.0\refint\IdentifyDataType.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\obj\Debug\net7.0\IdentifyDataType.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\obj\Debug\net7.0\IdentifyDataType.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\IdentifyDataType\obj\Debug\net7.0\ref\IdentifyDataType.dll
