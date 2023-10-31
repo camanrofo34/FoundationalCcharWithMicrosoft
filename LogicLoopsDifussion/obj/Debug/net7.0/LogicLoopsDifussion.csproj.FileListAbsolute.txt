@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\bin\Debug\net7.0\LogicLoopsDifussion.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\bin\Debug\net7.0\LogicLoopsDifussion.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\bin\Debug\net7.0\LogicLoopsDifussion.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\bin\Debug\net7.0\LogicLoopsDifussion.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\bin\Debug\net7.0\LogicLoopsDifussion.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\obj\Debug\net7.0\LogicLoopsDifussion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\obj\Debug\net7.0\LogicLoopsDifussion.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\obj\Debug\net7.0\LogicLoopsDifussion.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\obj\Debug\net7.0\LogicLoopsDifussion.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\obj\Debug\net7.0\LogicLoopsDifussion.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\obj\Debug\net7.0\refint\LogicLoopsDifussion.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\obj\Debug\net7.0\LogicLoopsDifussion.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\obj\Debug\net7.0\LogicLoopsDifussion.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\LogicLoopsDifussion\obj\Debug\net7.0\ref\LogicLoopsDifussion.dll
