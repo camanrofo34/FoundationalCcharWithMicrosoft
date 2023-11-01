@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\bin\Debug\net7.0\VariableDataLaboratory.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\bin\Debug\net7.0\VariableDataLaboratory.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\bin\Debug\net7.0\VariableDataLaboratory.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\bin\Debug\net7.0\VariableDataLaboratory.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\bin\Debug\net7.0\VariableDataLaboratory.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\obj\Debug\net7.0\VariableDataLaboratory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\obj\Debug\net7.0\VariableDataLaboratory.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\obj\Debug\net7.0\VariableDataLaboratory.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\obj\Debug\net7.0\VariableDataLaboratory.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\obj\Debug\net7.0\VariableDataLaboratory.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\obj\Debug\net7.0\refint\VariableDataLaboratory.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\obj\Debug\net7.0\VariableDataLaboratory.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\obj\Debug\net7.0\VariableDataLaboratory.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\VariableDataLaboratory\obj\Debug\net7.0\ref\VariableDataLaboratory.dll
