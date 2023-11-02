@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\bin\Debug\net7.0\Minigame.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\bin\Debug\net7.0\Minigame.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\bin\Debug\net7.0\Minigame.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\bin\Debug\net7.0\Minigame.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\bin\Debug\net7.0\Minigame.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\obj\Debug\net7.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\obj\Debug\net7.0\Minigame.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\obj\Debug\net7.0\Minigame.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\obj\Debug\net7.0\Minigame.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\obj\Debug\net7.0\Minigame.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\obj\Debug\net7.0\refint\Minigame.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\obj\Debug\net7.0\Minigame.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\obj\Debug\net7.0\Minigame.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\Minigame\obj\Debug\net7.0\ref\Minigame.dll

@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\bin\Debug\net7.0\ZooMethods.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\bin\Debug\net7.0\ZooMethods.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\bin\Debug\net7.0\ZooMethods.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\bin\Debug\net7.0\ZooMethods.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\bin\Debug\net7.0\ZooMethods.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\obj\Debug\net7.0\ZooMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\obj\Debug\net7.0\ZooMethods.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\obj\Debug\net7.0\ZooMethods.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\obj\Debug\net7.0\ZooMethods.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\obj\Debug\net7.0\ZooMethods.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\obj\Debug\net7.0\refint\ZooMethods.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\obj\Debug\net7.0\ZooMethods.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\obj\Debug\net7.0\ZooMethods.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\zoomethods\obj\Debug\net7.0\ref\ZooMethods.dll
