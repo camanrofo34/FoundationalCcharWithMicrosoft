@@ -1,0 +1,14 @@
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\bin\Debug\net7.0\FirstMethods.exe
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\bin\Debug\net7.0\FirstMethods.deps.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\bin\Debug\net7.0\FirstMethods.runtimeconfig.json
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\bin\Debug\net7.0\FirstMethods.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\bin\Debug\net7.0\FirstMethods.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\obj\Debug\net7.0\FirstMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\obj\Debug\net7.0\FirstMethods.AssemblyInfoInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\obj\Debug\net7.0\FirstMethods.AssemblyInfo.cs
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\obj\Debug\net7.0\FirstMethods.csproj.CoreCompileInputs.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\obj\Debug\net7.0\FirstMethods.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\obj\Debug\net7.0\refint\FirstMethods.dll
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\obj\Debug\net7.0\FirstMethods.pdb
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\obj\Debug\net7.0\FirstMethods.genruntimeconfig.cache
+C:\Users\PC 4060TI\Desktop\FoundationalC#with Microsoft\FirstMethods\obj\Debug\net7.0\ref\FirstMethods.dll
